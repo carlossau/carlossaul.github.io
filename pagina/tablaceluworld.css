@@ -1,0 +1,26 @@
+body {
+background-color: #E6C8F8  ;
+font-family: inherit;
+
+}
+
+#main-container{
+margin:150px  auto;
+width:600px ;
+}
+
+
+table {
+  width: 75%;
+  background-color: write;
+  text-align: left;
+
+}
+
+
+th, td {
+border: solid 1px black;
+}
+
+
+}
